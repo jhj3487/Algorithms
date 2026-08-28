@@ -1,6 +1,6 @@
 package com.thealgorithms.conversions;
 
-/**
+/***
  * Utility class for converting hexadecimal numbers to binary representation.
  * <p>
  * A hexadecimal number consists of digits from {@code [0-9]} and {@code [A-F]} (case-insensitive),
